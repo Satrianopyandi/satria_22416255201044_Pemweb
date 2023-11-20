@@ -1,0 +1,19 @@
+jawaban soal nomor 1
+	Framework pada pengembangan aplikasi adalah kumpulan kode yang sudah jadi dan siap pakai untuk membantu pengembang dalam membuat aplikasi. Framework menyediakan fungsionalitas dasar yang dibutuhkan oleh banyak aplikasi, seperti manajemen sesi, keamanan, routing, validasi input, dan lain sebagainya. Dengan menggunakan framework, pengembang dapat fokus pada pengembangan fitur khusus aplikasi tanpa harus memulai dari awal.
+
+	Istilah framework dapat dianalogikan dengan kerangka bangunan. Kerangka bangunan adalah struktur dasar yang digunakan untuk membangun sebuah bangunan. Kerangka bangunan menyediakan pondasi, balok, kolom, dan lain sebagainya yang diperlukan untuk membangun sebuah bangunan. Dengan adanya kerangka bangunan, proses pembangunan bangunan menjadi lebih mudah dan cepat.
+
+	Secara sederhana, framework dapat diartikan sebagai "kerangka kerja" untuk pengembangan aplikasi. Framework menyediakan struktur dan dukungan bagi pengembangan aplikasi, sehingga mempermudah proses pengembangan dan memastikan kualitas aplikasi yang dihasilkan.
+
+Berikut adalah beberapa manfaat penggunaan framework pada pengembangan aplikasi:
+
+1.Mempermudah dan mempercepat proses pengembangan aplikasi
+2.Meningkatkan kualitas aplikasi
+3.Meningkatkan keamanan aplikasi
+4.Meningkatkan skalabilitas aplikasi
+5.Meningkatkan produktivitas pengembang
+6.Framework dapat digunakan untuk mengembangkan berbagai jenis aplikasi, termasuk aplikasi web, aplikasi desktop, dan aplikasi mobile. Beberapa contoh framework yang populer antara lain:
+
+-Framework web: Laravel, Django, Spring Boot
+-Framework desktop: Qt, JavaFX, Swing
+-Framework mobile: Flutter, React Native, Ionic

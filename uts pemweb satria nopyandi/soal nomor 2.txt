@@ -1,0 +1,47 @@
+soal nomor 2
+1. tema project : Membuat Aplikasi Laundry
+2. Nama anggota
+-Fajri Ridha Maulana (membuat Laporan & design)
+-Maulid Dani(membuat Database)
+_Satria Nopyandi (membuat codingan)
+3. Permasalahan
+penjelasan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang diusung untuk aplikasi laundry:
+
+
+Berdasarkan wawancara dengan client, berikut adalah beberapa permasalahan yang ditemukan:
+
+1. Proses pemesanan yang masih manual
+Proses pemesanan laundry di laundry tersebut masih dilakukan secara manual, yaitu dengan cara pelanggan datang langsung ke laundry dan pemilik menulis formulir pemesanan. Hal ini menyebabkan proses pemesanan menjadi kurang efisien dan dapat menimbulkan kesalahan.
+
+2. Proses pelacakan status pesanan yang kurang transparan
+Setelah pelanggan melakukan pemesanan, mereka tidak dapat mengetahui status pesanan mereka secara real time. Hal ini menyebabkan pelanggan merasa khawatir dan tidak nyaman.
+
+3. Proses pembayaran yang masih kurang praktis
+Pembayaran laundry di laundry tersebut masih dilakukan secara tunai. Hal ini menyebabkan pelanggan harus membawa uang tunai saat datang ke laundry.
+
+4. keinginan membuat fitur resi pemesanan setelah pemesanan dengan input notif
+* Nama pelanggan
+* Nomor telepon pelanggan
+* Tanggal pemesanan
+* Jenis laundry
+* Berat laundry
+* Biaya laundry
+
+Berdasarkan permasalahan yang ditemukan, berikut adalah hipotesa solusi yang diusung untuk aplikasi laundry:
+
+1. Proses pemesanan yang lebih efisien dan akurat
+Proses pemesanan laundry dapat dilakukan secara online melalui aplikasi. Hal ini akan membuat proses pemesanan menjadi lebih efisien dan akurat.
+
+2. Proses pelacakan status pesanan yang lebih transparan
+Pembeli dapat mengetahui status pesanan mereka secara real time melalui aplikasi. Hal ini akan membuat pembeli merasa lebih nyaman dan percaya diri.
+
+3. Proses pembayaran yang lebih praktis
+Pembayaran laundry dapat dilakukan secara online melalui aplikasi yang akan hosting ke API dana. Hal ini akan membuat pembeli lebih praktis dan tidak perlu membawa uang tunai saat datang ke laundry.
+
+4. Menambahkan fitur resi pemesanan
+ langkah langkah membuat resi pemesanan
+*Buka aplikasi WhatsApp.
+*Buka percakapan dengan pelanggan.
+*Ketik template resi yang telah dibuat didalam aplikasi.
+*Ganti informasi yang diperlukan, seperti nama pelanggan, nomor telepon pelanggan, tanggal pemesanan, jenis laundry, berat laundry, dan biaya laundry.
+*Kirim resi pemesanan kepada pelanggan melalui hosting whatsaap API business.
